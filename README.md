@@ -1,11 +1,21 @@
-Análisis de Datos: Industria de Videojuegos
-Descripción del Proyecto
-Este repositorio contiene un análisis técnico sobre las tendencias de ventas de videojuegos, enfocado en la creación de visualizaciones profesionales para la toma de decisiones.
+# 🎮 Análisis Exploratorio de Datos: Industria de Videojuegos
 
-Visualización Principal
-(Nota: Si no le cambiaste el nombre a la imagen, pon aquí image_f9cc82.png)
+Este proyecto presenta un análisis detallado de las ventas globales de videojuegos, utilizando **Python** para transformar datos en insights visuales estratégicos.
 
-Tecnologías Utilizadas
-Python para el procesamiento de datos.
+## 📊 Visualización Destacada
+A continuación, se presenta el análisis de ventas promedio por género, donde se aplicaron personalizaciones avanzadas de Matplotlib:
 
-Matplotlib/Seaborn para gráficos con estándares de la industria (colores Steelblue y bordes definidos).
+![Gráfico de Ventas](image_f9cc82.png)
+
+## 🛠️ Tecnologías Utilizadas
+* **Python 3.x**: Lenguaje principal de procesamiento.
+* **Pandas**: Limpieza y manipulación de estructuras de datos.
+* **Seaborn**: Análisis de correlación mediante Mapas de Calor (Heatmaps).
+* **Matplotlib**: Diseño de gráficos profesionales con estilos específicos (Steelblue y bordes definidos).
+
+## 💡 Conclusiones Clave
+* Se identificaron los géneros con mayor impacto comercial.
+* Se validó la correlación entre los puntajes de la crítica y el éxito en ventas por plataforma.
+
+---
+*Proyecto desarrollado como parte del curso de Análisis de Datos.*
