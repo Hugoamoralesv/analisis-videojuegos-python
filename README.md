@@ -5,7 +5,7 @@ Este proyecto presenta un análisis detallado de las ventas globales de videojue
 ## 📊 Visualización Destacada
 A continuación, se presenta el análisis de ventas promedio por género, donde se aplicaron personalizaciones avanzadas de Matplotlib:
 
-![Gráfico de Ventas](image_f9cc82.png)
+![Gráfico de Ventas](Promedio de Ventas Globales por Género.png)
 
 ## 🛠️ Tecnologías Utilizadas
 * **Python 3.x**: Lenguaje principal de procesamiento.
